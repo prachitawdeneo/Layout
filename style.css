@@ -1,0 +1,28 @@
+.bgimage{
+    background-image: url(Images/bg.jpg);
+    background-size: 100% 100%;
+    background-attachment: fixed;
+    height: 700px;
+    width: 100%;
+}
+
+.headerset{
+    padding-top: 240px;
+    box-sizing: border-box;
+}
+.headerset h2{
+    font-size: 42px;
+}
+.headerset h1{
+    font-size: 82px;
+    font-weight: bold;
+}
+
+.ourservices{
+    margin-top: 250px;
+}
+
+.portfolio,.ourteam{
+    margin-top: 100px;
+}
+
